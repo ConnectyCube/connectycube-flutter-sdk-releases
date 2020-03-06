@@ -28,7 +28,7 @@ All users within the same ConnectyCube app can communicate by chat or video chat
 
 If you are just starting your app and developing it from scratch, we recommend to use our Code Samples projects.
 
-[Download Code Samples (coming soon)](/flutter/code-samples)
+[Download Code Samples (coming soon)](https://developers.connectycube.com/flutter/code-samples)
 
 These code samples are ready-to-go apps with an appropriate functionality and simple enough that even novice developers will be able to understand them.
 
@@ -95,8 +95,8 @@ CubeSettings.instance.setEndpoints(customApiEndpoint, customChatEndpoint); // to
 
 Follow the API guides on how to integrate chat and calling features into your app:
 
-- [Messaging API documentation](/flutter/messaging)
-- [Calling API documentation (coming soon)](/flutter/videocalling)
+- [Messaging API documentation](https://developers.connectycube.com/flutter/messaging)
+- [Calling API documentation (coming soon)](https://developers.connectycube.com/flutter/videocalling)
 
 ## SDK Changelog
 
