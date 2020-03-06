@@ -100,7 +100,7 @@ Follow the API guides on how to integrate chat and calling features into your ap
 
 ## SDK Changelog
 
-The complete SDK changelog is available on [ConnectyCube pub.dev page](https://pub.dev/packages/connectycube_sdk#-changelog-tab-)
+The complete SDK changelog is available on [ConnectyCube pub.dev](https://pub.dev/packages/connectycube_sdk#-changelog-tab-) page.
 
 ## Contact
 
