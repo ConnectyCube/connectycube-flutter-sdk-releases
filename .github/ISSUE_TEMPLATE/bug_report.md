@@ -7,10 +7,6 @@ assignees: ''
 
 ---
 
-**Specify the sample to which the issue belongs (use [x]):**
-[ ] P2P Call sample
-[ ] Conference Call sample
-
 **Platform (use [x])**
 [ ] Android
 [ ] iOS
