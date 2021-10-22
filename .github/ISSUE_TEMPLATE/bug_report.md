@@ -8,8 +8,11 @@ assignees: ''
 ---
 
 **Platform (use [x])**
-[ ] Android
-[ ] iOS
+[] Android
+[] iOS
+[] macOS
+[] Windows
+[] Web
 
 **Device info**
 Manufacture: [e.g. Apple inc.]
