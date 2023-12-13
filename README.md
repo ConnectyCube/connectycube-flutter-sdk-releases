@@ -104,9 +104,12 @@ Follow the API guides on how to integrate chat and calling features into your ap
 
 The complete SDK changelog is available on [ConnectyCube pub.dev](https://pub.dev/packages/connectycube_sdk#-changelog-tab-) page.
 
-## Contact
+## Have an issue?
 
-You can reach the ConnectyCube team at any time by emailing [support@connectycube.com](mailto:support@connectycube.com).
+Got troubles with integration? Create an issue at [Issues page](https://github.com/ConnectyCube/connectycube-flutter-sdk-releases/issues).
+
+**Want to support our team**:<br>
+<a href="https://www.buymeacoffee.com/connectycube" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 ## License
 
